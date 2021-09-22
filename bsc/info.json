@@ -1,11 +1,21 @@
 {
- "name": "PhyseterToken",
- "website": "https://PhyseterToken.io",
- "description": " PhyseterToken is a token on bsc boasting a number of impressive features",
- "explorer": "https://bscscan.com/token/0x1d5ddd30211fFaec5F05962e690b1fdB51aEF9BB",
- "type": "BEP20",
- "symbol": "PHST",
- "decimals": 6,
- "status": "active",
- "id": "0x1d5ddd30211fFaec5F05962e690b1fdB51aEF9BB"
+ 
+"name": "Novis Vita Coin",
+ 
+"website": "",
+ 
+"description": "",
+ 
+"explorer": "https://bscscan.com/token/0xB3450E49639194b37B7825AAbef0A1A0A2Dde3cb",
+ 
+"type": "BSC",
+ 
+"symbol": "NVS",
+ 
+"decimals": 9,
+ 
+"status": "active",
+ 
+"id": "0xB3450E49639194b37B7825AAbef0A1A0A2Dde3cb"
+
 }
